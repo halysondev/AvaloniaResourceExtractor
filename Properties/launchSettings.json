@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Testextrac": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
